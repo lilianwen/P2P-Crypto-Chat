@@ -1,0 +1,6 @@
+{
+	"dataDir": "./data",
+	"logDir": "./log1",
+	"Listener": "127.0.0.1:8070",
+	"logLevel": "info"
+}
